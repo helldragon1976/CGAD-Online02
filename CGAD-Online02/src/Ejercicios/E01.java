@@ -1,5 +1,8 @@
-/*Indique si el número introducido desde teclado es positivo o negativo mostrando un mensaje por pantalla. El cero lo consideraremos como número positivo.
-*/
+/*
+ * Indique si el número introducido desde teclado es positivo o negativo mostrando un mensaje por pantalla. El cero lo consideraremos como número positivo.
+ * 
+ *Enlace github: https://github.com/helldragon1976/CGAD-Online02
+ */
 package Ejercicios;
 
 import java.util.Scanner;
